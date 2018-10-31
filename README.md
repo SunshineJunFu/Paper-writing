@@ -8,6 +8,10 @@ Abstract:
 
 https://users.ece.cmu.edu/~koopman/essays/abstract.html
 
+Introduction:
+
+http://writing.msu.edu/how-to-write-a-good-introduction/
+
 Writing:
 
 https://www.elsevier.com/connect/six-things-to-do-before-writing-your-manuscript
