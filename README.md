@@ -12,6 +12,10 @@ Introduction:
 
 http://writing.msu.edu/how-to-write-a-good-introduction/
 
+Related work:
+
+https://guidetogradschoolsurvival.wordpress.com/2011/04/08/how-to-write-related-work/
+
 Writing:
 
 https://www.elsevier.com/connect/six-things-to-do-before-writing-your-manuscript
