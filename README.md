@@ -12,9 +12,18 @@ Introduction:
 
 http://writing.msu.edu/how-to-write-a-good-introduction/
 
+https://guidetogradschoolsurvival.wordpress.com/2011/04/04/introductions/
+
 Related work:
 
 https://guidetogradschoolsurvival.wordpress.com/2011/04/08/how-to-write-related-work/
+
+Body paragraph:
+
+https://lsa.umich.edu/sweetland/undergraduates/writing-guides/how-do-i-write-an-intro--conclusion----body-paragraph.html
+
+Conclusion:
+
 
 Writing:
 
