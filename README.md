@@ -40,4 +40,5 @@ https://jesswhittlestone.com/blog/2016/5/29/why-is-writing-hard
 
 2. check grammar https://www.paperrater.com/
 
-3. Latex mathematics http://xiaosheng.me/2017/02/03/article28/
+3. Latex mathematics http://xiaosheng.me/2017/02/03/article28/ http://blog.sina.com.cn/s/blog_5e16f1770100fs38.html
+
