@@ -44,3 +44,5 @@ https://jesswhittlestone.com/blog/2016/5/29/why-is-writing-hard
 
 4. bib https://blog.csdn.net/tmylzq187/article/details/51355261
 
+5. algorithm https://math-linux.com/latex-26/faq/latex-faq/article/how-to-write-algorithm-and-pseudocode-in-latex-usepackage-algorithm-usepackage-algorithmic
+
