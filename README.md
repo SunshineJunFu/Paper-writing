@@ -42,7 +42,7 @@ https://jesswhittlestone.com/blog/2016/5/29/why-is-writing-hard
 
 3. Latex mathematics http://xiaosheng.me/2017/02/03/article28/ http://blog.sina.com.cn/s/blog_5e16f1770100fs38.html
 
-4. bib https://blog.csdn.net/tmylzq187/article/details/51355261
+4. bib https://blog.csdn.net/tmylzq187/article/details/51355261 https://jingyan.baidu.com/article/0320e2c1c8030f1b86507b6a.html
 
 5. algorithm https://math-linux.com/latex-26/faq/latex-faq/article/how-to-write-algorithm-and-pseudocode-in-latex-usepackage-algorithm-usepackage-algorithmic
 
