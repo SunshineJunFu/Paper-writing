@@ -10,9 +10,9 @@ Strategy and Steps](http://media.wiley.com/assets/7088/83/Writing_Scientific_Res
 
 ## Latex Edit Tools 
 
-+ Tex Studio + Tex Live 
++ [Tex Studio + Tex Live](https://www.cnblogs.com/joyeecheung/p/3596255.html)
 
-+ Sublime + SumatraPDF + Tex Live
++ [Sublime + SumatraPDF + Tex Live](https://www.jianshu.com/p/72fe0ec0ab4e)
 
 + MikTex
 
