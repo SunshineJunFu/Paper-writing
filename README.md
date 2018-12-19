@@ -1,6 +1,13 @@
 # Paper-writing
 Collect tips for paper writing and useful tools
 
+## Recommended Books 
+
++ [Writing Scientific Research Articles
+Strategy and Steps](http://media.wiley.com/assets/7088/83/Writing_Scientific_Research_Articles-Strategy_and_Steps.pdf)
+
++ [Writing Science by joshua schimel](https://download.csdn.net/download/qq_33459098/10437348)
+
 ## Latex Edit Tools 
 
 + Tex Studio + Tex Live 
