@@ -15,11 +15,11 @@ Collect tips for paper writing and useful tools
 
 ## Latex syntax
 
-+ [Latex for beginners] (http://www.docs.is.ed.ac.uk/skills/documents/3722/3722-2014.pdf)
++ [Latex for beginners](http://www.docs.is.ed.ac.uk/skills/documents/3722/3722-2014.pdf)
 
 + [Latex Edit Equation](http://xiaosheng.me/2017/02/03/article28/)
 
-+ [Latex Edit Algorithm](algorithm https://math-linux.com/latex-26/faq/latex-faq/article/how-to-write-algorithm-and-pseudocode-in-latex-usepackage-algorithm-usepackage-algorithmic)
++ [Latex Edit Algorithm](https://math-linux.com/latex-26/faq/latex-faq/article/how-to-write-algorithm-and-pseudocode-in-latex-usepackage-algorithm-usepackage-algorithmic)
 
 + [Latex Edit Picture](https://blog.csdn.net/chichoxian/article/details/52588833)
 
