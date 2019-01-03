@@ -14,7 +14,7 @@ Strategy and Steps](http://media.wiley.com/assets/7088/83/Writing_Scientific_Res
 
 + [Sublime + SumatraPDF + Tex Live](https://www.jianshu.com/p/72fe0ec0ab4e)
 
-+ MikTex
++ [MikTex](https://miktex.org/)
 
 + [overleaf](https://www.overleaf.com/)
 
