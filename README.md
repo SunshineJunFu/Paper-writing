@@ -8,6 +8,8 @@ Strategy and Steps](http://media.wiley.com/assets/7088/83/Writing_Scientific_Res
 
 + [Writing Science by joshua schimel](https://download.csdn.net/download/qq_33459098/10437348)
 
++ [Latex tutorial](http://www.mohu.org/info/lshort-cn.pdf)
+
 ## Latex Edit Tools 
 
 + [Tex Studio + Tex Live](https://www.cnblogs.com/joyeecheung/p/3596255.html)
