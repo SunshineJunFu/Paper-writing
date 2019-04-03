@@ -34,6 +34,8 @@ Strategy and Steps](http://media.wiley.com/assets/7088/83/Writing_Scientific_Res
 
 + [Latex Edit Picture](https://blog.csdn.net/chichoxian/article/details/52588833)
 
++ [Latex Table](http://www1.maths.leeds.ac.uk/latex/TableHelp1.pdf)
+
 ## How to Write 
 
 ### Why is writing hard 
