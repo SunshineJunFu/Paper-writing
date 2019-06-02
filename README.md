@@ -69,7 +69,7 @@ key points:
 + introduce some related background and point out your motivation( explain why this work is important)
 + point out the current problem and current research state and their shortcomings
 + what's your solution, analyse the bottleneck of problem and your solution 
-+ highlight your contribution
++ highlight your contributions
 + inform the structure of remained parts
 
 #### Related work:
