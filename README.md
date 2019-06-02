@@ -59,9 +59,18 @@ Strategy and Steps](http://media.wiley.com/assets/7088/83/Writing_Scientific_Res
 
 #### Introduction:
 
+Hyperlinks
+
 + http://writing.msu.edu/how-to-write-a-good-introduction/
 
 + https://guidetogradschoolsurvival.wordpress.com/2011/04/04/introductions/
+
+key points:
++ introduce some related background and point out your motivation( explain why this work is important)
++ point out the current problem and current research state and their shortcomings
++ what's your solution, analyse the bottleneck of problem and your solution 
++ highlight your contribution
++ inform the structure of remained parts
 
 #### Related work:
 
