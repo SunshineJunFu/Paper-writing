@@ -98,3 +98,4 @@ https://www.youtube.com/watch?v=toIWMJl_SnE
 
 ## How to present your results
 + [tutorial one](http://abacus.bates.edu/~ganderso/biology/resources/writing/HTW_Guide_Table-Figures_9-30-08.pdf)
++ [tutorial two](https://drmarkwomack.com/a-writing-handbook/style/typography/)
