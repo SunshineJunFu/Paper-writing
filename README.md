@@ -93,6 +93,8 @@ key points:
 
 + translate https://translate.google.cn/
 
++ visio export pdf https://blog.csdn.net/raby_gyl/article/details/79813552
+
 ## Excel 
 https://www.youtube.com/watch?v=toIWMJl_SnE
 
